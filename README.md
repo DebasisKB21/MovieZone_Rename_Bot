@@ -27,5 +27,5 @@ python3 bot.py
 
 ### Developer 
 * Telegram [BY](https://t.me/MovieZoneBKP)
-* You can checkout my bots At [MovieZoneBKP](https://t.me/MovieZoneBKP)
+* You can checkout my Movie Channel At [MovieZoneBKP](https://t.me/MovieZoneBKP)
 
