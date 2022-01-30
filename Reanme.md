@@ -8,7 +8,7 @@ and Auto detection !!
 ### Installation
 
 ### Easy Way 
-Use [Renam_eBot](https://t.me/MovieZoneRename_bot)
+Use [MovieZoneRename_bot](https://t.me/MovieZoneRename_bot)
 
 ### The Simple Way
 
